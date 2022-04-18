@@ -1,0 +1,37 @@
+.div1{
+border-style: solid;
+border-color:coral;
+height: 93vh;
+}
+.div2{
+border-style: solid;
+border-color: blue;
+height: 93vh;
+}
+.hola1 {
+border-style: solid;
+border-color: blue;
+height:10vh;
+margin-top: 5px;
+}
+
+.hola2 {
+  border-style: solid;
+  border-color:red;
+  height:80vh;
+  margin-top: 5px;
+}
+
+.hola22 {
+  border-style: solid;
+  border-color: blue;
+  height:10vh;
+  margin-top: 5px;
+}
+
+.hola21{
+  border-style: solid;
+  border-color: blue;
+  height:80vh;
+  margin-top: 5px;
+}
